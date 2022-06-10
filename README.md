@@ -1,0 +1,1 @@
+# Bob LATEX OCR Plugin
