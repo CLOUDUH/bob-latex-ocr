@@ -1,0 +1,24 @@
+{
+    "identifier": "com.clouduh.latexocr.test",
+    "version": "0.1.0",
+    "category": "ocr",
+    "name": "LATEX OCR",
+    "summary": "通过腾讯云公式识别实现公式的识别，返回LATEX公式代码",
+    "icon": "108",
+    "author": "CLOUDUH",
+    "homepage": "",
+    "appcast": "",
+    "minBobVersion": "0.10.1",
+    "options": [
+        {
+            "identifier": "ID",
+            "type": "text",
+            "title": "Secret ID"
+        },
+        {
+            "identifier": "Key",
+            "type": "text",
+            "title": "Secret Key"
+        }
+    ]
+}
